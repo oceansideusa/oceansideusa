@@ -5,6 +5,9 @@
 # hey, I'm Aziz
 **CU Denver 26 · Cybersecurity · Denver, CO**
 
+### A bit about my github
+The projects on my page are only a selection of what I've made public. Most of my work is kept private. Email me directly at **iamincousa@gmail.com** if you'd like to know more.
+
 </div>
 
 ---
