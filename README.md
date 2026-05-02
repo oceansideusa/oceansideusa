@@ -1,8 +1,6 @@
 <div align="center">
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fd4dcb578861c2ce6e63942ce670a1bfa%2Ftenor.gif%3Fitemid%3D5439230&f=1&nofb=1&ipt=03f7f88e2393f26cbf8aed4d985c56d1b729d0912445f16ddcb6cd1061ff6e77)
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FBy__b9jqDV0AAAAC%2Fdenver-broncos-city-lights.gif&f=1&nofb=1&ipt=238e94b34ff822ff99585ff065102afa1c6cee4c413c3a73c9fe5a8343708d7b)
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F0c1ZfID7zocAAAAC%2Fdowntown-denver.gif&f=1&nofb=1&ipt=bfef3ceafc63c5d7935d564d42ca51eb00ffd63a268eabe17dbfebbf69d2fc41)
 
 # hey, I'm Aziz
 **CU Denver 26 · Cybersecurity · Denver, CO**
